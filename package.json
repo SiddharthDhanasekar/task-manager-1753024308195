@@ -1,0 +1,27 @@
+{
+  "name": "task-manager-1753024308195",
+  "version": "1.0.0",
+  "description": "A modern task manager built with React, Node.js, MongoDB featuring notifications, dark mode, user authentication.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "keywords": [
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Notifications",
+    "Dark mode",
+    "User authentication"
+  ],
+  "author": "SiddharthDhanasekar",
+  "license": "MIT"
+}
